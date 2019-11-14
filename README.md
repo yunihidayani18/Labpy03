@@ -10,3 +10,6 @@
 * Hasilnya :
 * -Masukkan nilai input. Nilai input ini berfungsi untuk menampilkan banyak data. Anda bisa memasukkan nilai berapa saja.
 ![hasillatihan1](https://user-images.githubusercontent.com/57063216/68871204-a9fc5d80-072e-11ea-814f-2b302ae7139a.png)
+# Alur algoritma program latihan2.py
+* Menampilkan bilangan terbesar dari n buah data yang diinputkan
+* Gunakan Perulangan while. Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE. 
