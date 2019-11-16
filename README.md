@@ -33,6 +33,9 @@
 * selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%
 * > int(x) * .2
 * Kemudian gunakan Perulangan for. Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
-![hasil laba](https://user-images.githubusercontent.com/57063216/68996552-18c3ed00-08ce-11ea-8cca-9ad9d76a2057.png)
-* Hasilnya :
+* Dan akan ditampilkan jumlah laba secara keseluruhan yang didapat menggunakan sum.
 ![program1](https://user-images.githubusercontent.com/57063216/68996554-195c8380-08ce-11ea-942b-e7deeac4e7be.png)
+* Hasilnya :
+![hasil laba](https://user-images.githubusercontent.com/57063216/68996552-18c3ed00-08ce-11ea-8cca-9ad9d76a2057.png)
+
+
