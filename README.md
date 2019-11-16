@@ -13,3 +13,16 @@
 # Alur algoritma program latihan2.py
 * Menampilkan bilangan terbesar dari n buah data yang diinputkan
 * Gunakan Perulangan while. Perulangan while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE. 
+* Kemudian, gunakan pula pernyataan break untuk menghentikan proses perulangan pada kondisi tertentu.
+![latihan2](https://user-images.githubusercontent.com/57063216/68996120-69384c00-08c8-11ea-854d-b2e239289446.png)
+* Masukkan bilangan
+* Program akan terus mengulang untuk meminta anda memasukkan bilangan
+* Pengulangan akan berhenti ketika anda memasukkan angka nol(0).
+* Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input
+* Bilangan menggunakan fungsi max
+![hasillatihan2](https://user-images.githubusercontent.com/57063216/68996119-69384c00-08c8-11ea-8a1c-55c550e83bd4.png)
+# Alur Algoritma Program1.py
+* Modal awal pengusaha sebesar 100000000
+* Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan
+* bulan pertama dan kedua belum mendapatkan laba
+* > int(0)
